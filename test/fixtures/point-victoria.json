@@ -1,0 +1,8 @@
+{"ac":[
+{"hex":"c0172e","type":"adsb_icao","flight":"ACA33   ","r":"C-FIUF","t":"B77L","alt_baro":17100,"alt_geom":17300,"gs":369.0,"ias":320,"tas":410,"track":232.82,"true_heading":232.58,"baro_rate":2048,"geom_rate":2048,"squawk":"2606","emergency":"none","category":"A5","lat":48.792847,"lon":-123.664011,"nic":8,"seen_pos":0.414,"version":2,"mlat":[],"tisb":[],"messages":7106,"seen":0.0,"rssi":-20.0},
+{"hex":"A1589D","type":"adsb_icao","flight":"SKW849R ","r":"N186SY","t":"E75L","alt_baro":9625,"alt_geom":9700,"gs":295.7,"track":348.69,"baro_rate":-1024,"squawk":"6651","emergency":"none","category":"A3","lat":48.432816,"lon":-122.427133,"seen_pos":0.268,"mlat":[],"tisb":[],"seen":0.0},
+{"hex":"c05f11","type":"adsb_icao","flight":"HBO21   ","t":"DHC6","alt_baro":"ground","gs":3.1,"track":90.0,"category":"A1","lat":48.4235,"lon":-123.3712,"seen_pos":2.0,"mlat":[],"tisb":[],"seen":1.0},
+{"hex":"c08a2b","type":"mlat","flight":"","alt_baro":1500,"gs":95.0,"track":180.0,"lat":48.55,"lon":-123.40,"seen_pos":4.0,"mlat":["lat","lon","track","gs","alt_baro"],"tisb":[],"seen":4.0},
+{"hex":"c0beef","type":"adsb_icao","flight":"OLD1","alt_baro":3000,"lat":48.5,"lon":-123.5,"seen_pos":95.0,"seen":2.0},
+{"hex":"c0f00d","type":"adsb_icao","flight":"NOPOS","alt_baro":3000,"seen":1.0}
+],"msg":"No error","now":1793949167500,"total":6,"ctime":1793949167500,"ptime":0}

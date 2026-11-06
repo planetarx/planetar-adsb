@@ -1,0 +1,15 @@
+{
+  "name": "planetar-adsb",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "ADS-B aircraft ingest (adsb.lol) for the Victoria, BC operating area. Publishes aircraft positions to planetar-broker.",
+  "scripts": {
+    "start": "node src/index.mjs",
+    "test": "node --test 'test/*.test.mjs'"
+  },
+  "dependencies": {
+    "uuid": "^14.0.0"
+  },
+  "license": "GPL-3.0-or-later"
+}
