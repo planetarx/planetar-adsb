@@ -5,8 +5,8 @@ Live aircraft for the planetar Victoria, BC operating area. Polls the public
 Inner Harbour and publishes each new position onto planetar-broker, the same
 way `planetar-ais` publishes vessels.
 
-> Status (2026-11-06): first pass. Built for the planetar-ue Explore client's
-> aircraft layer. Local only (no GitHub remote yet); not deployed to www0.
+> Status (2026-11-08): runs under pm2 as `planetar:adsb` on bb and on www0
+> (planetar.ca). Built for the planetar-ue Explore client's aircraft layer.
 
 ## Topic published
 
